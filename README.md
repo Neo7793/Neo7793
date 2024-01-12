@@ -1,15 +1,12 @@
-<h2 align="left">Hi 👋! My name is Sina and I'm a front-end developer from Iran</h2>
+<h2 align="left">I'm a self-taught passionate FrontEnd developer</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neo7793&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neo7793&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">About me :</h3>
 
 ###
 
-<h1 align="left">Skills</h1>
+<p align="left">this GitHub portfolio showcases a collection of personal projects that demonstrate my skills and enthusiasm for the field. While I am yet to gain experience in a professional setting, I am committed to continuous learning and collaboration with others.</p>
 
 ###
 
@@ -30,18 +27,16 @@
 ###
 
 <div align="left">
-  <a href="sina.mahi02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="linkedin.com/in/sina-mahi-a28656293" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neo7793&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Neo7793/Neo7793/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <a href="sina.mahi02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 ###
